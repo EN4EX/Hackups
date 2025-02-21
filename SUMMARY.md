@@ -24,6 +24,7 @@
 ## Try Hack Me
 
 * [Challenges](try-hack-me/challenges/README.md)
+  * [Silver Platter](try-hack-me/challenges/silver-platter.md)
   * [Brains](try-hack-me/challenges/brains.md)
   * [Blueprint](try-hack-me/challenges/blueprint.md)
   * [Pickle Rick](try-hack-me/challenges/pickle-rick.md)
@@ -32,3 +33,6 @@
 ## Defend The Web
 
 * [Intro 1](defend-the-web/intro-1.md)
+* [Intro 2](defend-the-web/intro-2.md)
+* [Crypt 1](defend-the-web/crypt-1.md)
+* [Crypt 2](defend-the-web/crypt-2.md)
