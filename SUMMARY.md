@@ -34,5 +34,7 @@
 
 * [Intro 1](defend-the-web/intro-1.md)
 * [Intro 2](defend-the-web/intro-2.md)
+* [Intro 3](defend-the-web/intro-3.md)
+* [Intro 4](defend-the-web/intro-4.md)
 * [Crypt 1](defend-the-web/crypt-1.md)
 * [Crypt 2](defend-the-web/crypt-2.md)
