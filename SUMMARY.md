@@ -39,3 +39,9 @@
 * [Intro 5](defend-the-web/intro-5.md)
 * [Crypt 1](defend-the-web/crypt-1.md)
 * [Crypt 2](defend-the-web/crypt-2.md)
+
+## ROOT ME
+
+* [Challenges](root-me/challenges/README.md)
+  * [Web - Server](root-me/challenges/web-server/README.md)
+    * [HTML - Source Code](root-me/challenges/web-server/html-source-code.md)
